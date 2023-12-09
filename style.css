@@ -1,9 +1,12 @@
 .header {
-    width: 100vw;
-    height: 20vh;
+   width: auto;
     display: flex;
    
     align-items: center;
+    
+}
+
+.top-links {
     
 }
 
