@@ -29,5 +29,9 @@ a {
 }
 
 .second-panel {
+    display: flex;
+    justify-content: space-between;
     padding-left: 75px;
+    background-color: grey;
+    color: white;
 }
