@@ -21,4 +21,8 @@ body {
     gap: 70px;
 }
 
+a {
+    text-decoration: none;
+}
+
 
