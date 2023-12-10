@@ -48,5 +48,10 @@ a {
     padding-right: 120px;
     padding-top: 10px;
     padding-bottom: 20px;
-   
+}
+
+.logo {
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
 }
