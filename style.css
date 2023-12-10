@@ -1,12 +1,11 @@
 .header {
    width: auto;
+   height: 60px;
     display: flex;
    
     align-items: center;
     
 }
 
-.top-links {
-    
-}
+
 
