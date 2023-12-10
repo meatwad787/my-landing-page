@@ -19,11 +19,12 @@ body {
 
 .top-links {
     display: flex;
-    gap: 70px;
+    gap: 50px;
 }
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 
