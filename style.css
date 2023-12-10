@@ -32,11 +32,11 @@ a {
     display: flex;
     justify-content: space-between;
     padding-left: 75px;
-    background-color: grey;
+    background-color: black;
     color: white;
     height: 300px;
     padding-top: 40px;
-    border-radius: 80px;
+    border-radius: 100px;
     
 }
 
