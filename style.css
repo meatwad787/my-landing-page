@@ -16,5 +16,9 @@ body {
     margin-left: -60px;
 }
 
+.top-links {
+    display: flex;
+    gap: 70px;
+}
 
 
