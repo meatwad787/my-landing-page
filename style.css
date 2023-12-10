@@ -15,6 +15,7 @@ body {
     font-size: 14px;
     /* margin-left: -60px; */
     margin-bottom: 50px;
+    padding-left: 20px;
 }
 
 .top-links {
@@ -27,4 +28,6 @@ a {
     color: black;
 }
 
-
+.second-panel {
+    padding-left: 75px;
+}
