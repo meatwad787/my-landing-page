@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: monospace, sans-serif;
-
+    margin-left: 140px;
 }
 
 .header {
