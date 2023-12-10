@@ -35,3 +35,11 @@ a {
     background-color: grey;
     color: white;
 }
+
+.chucks {
+    height: 200px;
+    width: 470px;
+    float: left;
+
+    margin: 40px;
+}
