@@ -84,6 +84,7 @@ h2 {
 
 .card-section {
     display: flex;
+    justify-content: space-evenly;
 }
 
 .column {
