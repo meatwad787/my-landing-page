@@ -5,6 +5,12 @@ body {
     /* margin-left: 140px; */
 }
 
+.logo {
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
 .header {
    width: auto;
    height: 60px;
@@ -50,8 +56,4 @@ a {
     padding-bottom: 20px;
 }
 
-.logo {
-    height: 100px;
-    padding-top: 30px;
-    padding-left: 30px;
-}
+
