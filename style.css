@@ -77,10 +77,10 @@ button:active {
 }
 
 .column {
-    border: 1px solid #ededed;
-    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.182);
-    border-radius: 4px; 
-    width: 200px;
+    border: 1px solid #bbbbbb;
+    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.692);
+    border-radius: 40px; 
+    width: 100px;
     text-align: center;
     padding: 32px;
     margin: 16px;
