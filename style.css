@@ -75,3 +75,18 @@ button:hover{
 button:active {
     background-color:  rgb(27, 63, 110);
 }
+
+.column {
+    border: 1px solid #ededed;
+    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.182);
+    border-radius: 4px; 
+    width: 200px;
+    text-align: center;
+    padding: 32px;
+    margin: 16px;
+    padding-bottom: 35px;
+    flex-shrink: 1;
+     /*float: left;
+    width: 50%;
+    padding: 1px; */ 
+  } 
