@@ -76,6 +76,10 @@ button:active {
     background-color:  rgb(27, 63, 110);
 }
 
+.card-section {
+    display: flex;
+}
+
 .column {
     border: 1px solid #bbbbbb;
     box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.692);
