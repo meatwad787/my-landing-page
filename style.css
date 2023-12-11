@@ -76,6 +76,11 @@ button:active {
     background-color:  rgb(27, 63, 110);
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
 .card-section {
     display: flex;
 }
