@@ -169,3 +169,10 @@ h3 {
   .quotes-p {
     width: 843px;
   }
+
+  .sign-up {
+    display: flex;
+    justify-content: center;
+    background-color: darkmagenta;
+    width: 700px;
+  }
