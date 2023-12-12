@@ -115,10 +115,15 @@ h3 {
   } 
 
   /* Hiking Pic */
-
   .hiking {
     width: 144px;
     margin-right: 56px;
+  }
+
+  /* Running Pic */
+  .running {
+    width: 164px;
+    margin-right: 2px;
   }
 
   .subtext-div {
