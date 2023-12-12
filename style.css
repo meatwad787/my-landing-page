@@ -139,6 +139,7 @@ h3 {
   }
 
   .subtext-div {
+    width: 200px;
     display: flex;
     flex-direction: column;
     text-align: center;
