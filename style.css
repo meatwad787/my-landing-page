@@ -126,6 +126,12 @@ h3 {
     margin-right: 2px;
   }
 
+  /* Walking Pic */
+  .walking {
+    width: 164px;
+    margin-right: -2px;
+  }
+
   .subtext-div {
     display: flex;
     flex-direction: column;
