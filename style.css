@@ -132,6 +132,12 @@ h3 {
     margin-right: 1px;
   }
 
+  /* Sports Pic */
+  .sports {
+    width: 162px;
+    margin-right: 1px;
+  }
+
   .subtext-div {
     display: flex;
     flex-direction: column;
