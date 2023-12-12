@@ -106,10 +106,19 @@ h3 {
     margin: 16px;
     padding-bottom: 35px;
     flex-shrink: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
      /*float: left;
     width: 50%;
     padding: 1px; */ 
   } 
+
+  /* Hiking Pic */
+
+  .hiking {
+    width: 100px;
+  }
 
   .subtext-div {
     display: flex;
