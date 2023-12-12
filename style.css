@@ -155,6 +155,8 @@ h3 {
 
   .quote-div {
     background-color: black;
+    border-radius: 95px;
+    margin-top: 25px;
   }
 
   .p-tag {
