@@ -193,3 +193,17 @@ h3 {
   #sign-up-button {
     box-shadow: 0px 1px 11px 6px #d84040;
   }
+
+  .footer {
+        margin-top: 45px;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+        background-color: grey;
+        font-size: 16px;
+        padding: 12px;
+        position: static;
+        bottom: 0;
+        width: 100vw;
+  }
