@@ -189,3 +189,7 @@ h3 {
     border-radius: 18px;
     /* width: 875px; */
   }
+
+  #sign-up-button {
+    box-shadow: 0px 1px 11px 6px #d84040;
+  }
