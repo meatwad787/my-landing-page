@@ -170,6 +170,11 @@ h3 {
     width: 843px;
   }
 
+  .big-sign-up {
+    display: flex;
+    justify-content: center;
+  }
+
   .sign-up {
     display: flex;
     justify-content: center;
