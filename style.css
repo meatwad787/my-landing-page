@@ -5,9 +5,9 @@ body {
     flex-direction: column;
     font-family: monospace, sans-serif;
     /* margin-left: 140px; */
-    overflow: scroll;
+    /* overflow: scroll;
     overflow-x: hidden;
-    
+     */
 }
 
 .logo {
